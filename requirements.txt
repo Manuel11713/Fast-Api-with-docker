@@ -2,7 +2,9 @@ autopep8==1.5.6
 click==7.1.2
 fastapi==0.63.0
 greenlet==1.0.0
+gunicorn==20.1.0
 h11==0.12.0
+httptools==0.1.1
 pycodestyle==2.7.0
 pydantic==1.8.1
 SQLAlchemy==1.4.7
@@ -10,3 +12,4 @@ starlette==0.13.6
 toml==0.10.2
 typing-extensions==3.7.4.3
 uvicorn==0.13.4
+uvloop==0.15.2
